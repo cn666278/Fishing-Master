@@ -5,8 +5,10 @@ Survey: <https://forms.office.com/e/v7PNbS4esb>
 Demo Video: [FishingMaster\_demo.mp4](https://cf-my.sharepoint.com/:v:/g/personal/chenn16_cardiff_ac_uk/ETsrJAWjhy1DmnRosLE7RgIBWJKH-IGPMcDvEutBlOs7vQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0\&e=cREC6w)  
 
 
-**PART 1: PROTOTYPING**
+**PART 1: PROTOTYPING**  
  
+
+<img src="screenshots/screenshot2.png" style="height: 500px;"/>
 
 **App Name:** Fishing Master
 
@@ -14,7 +16,7 @@ Demo Video: [FishingMaster\_demo.mp4](https://cf-my.sharepoint.com/:v:/g/persona
 
 **Introduction:** A mobile fishing game application for blind and speech-disabled individuals using MIT APP Inventor.
 
- 
+ <img src="screenshots/screenshot1.png" style="weight: 500px;"/>
 
 **Features:**
 
@@ -82,28 +84,28 @@ To elaborate on the user experience (UX) principles involved in integrating good
 
 1.  **Accessibility for Blind and Speech Users:** UX design prioritizes accessibility to ensure that blind and speech-disabled users can easily navigate and interact with the application. This includes features such as voice navigation, tactile feedback, and simple operations to accommodate users who rely on auditory and tactile cues rather than visual feedback. For example, the voice prompt feature at the start of the game is designed for user interaction using the Accelerometer Sensor and TextToSpeech functions, making it convenient for users, especially blind and speech-disabled users, to initiate the game and understand the game process, mechanics, and gameplay methods.
 
-![转存失败，建议直接上传图片文件](<转存失败，建议直接上传图片文件 >)
+ <img src="screenshots/screenshot3.png" style="height: 500px;"/>
 
 2.  **Clear and Intuitive Functionality and Interface Design:** The interface design aims to provide clear and intuitive navigation, allowing users to easily understand the structure of the application and access its various functions, such as using simple gesture operations (vibration) and listening to voice instructions to complete fishing activities. This seamless guidance leads users through the game experience.
 3.  **Feedback and Guidance:** UX design incorporates feedback mechanisms to provide users with clear guidance and feedback throughout their interaction with the application. This includes audio prompts, tactile feedback, to inform users of their actions, progress, and any relevant game events. For example, the vibration feedback mechanism when the bait touches the fish, we add vibration sounds to alert the user so that they can respond accordingly through the vibration feedback of their hands (shaking the phone to fish).
 
-![转存失败，建议直接上传图片文件](<转存失败，建议直接上传图片文件 >)
+ <img src="screenshots/screenshot4.png" style="height: 500px;"/>
 
 And the feedback sound when successfully catching a fish (providing feedback on the user's current score and remaining chances), making it easy for users to track their progress in the game.
 
-![转存失败，建议直接上传图片文件](<转存失败，建议直接上传图片文件 >)
+ <img src="screenshots/screenshot5.png" style="height: 500px;"/>
 
  
 
 4.  **Sensory Engagement:** The application aims to engage users through multiple sensory channels, enhancing the overall user experience. This includes immersive audio effects such as ocean background music and realistic sound effects for fishing actions, creating a more appealing and enjoyable experience for visually impaired users. Additionally, tactile feedback further enhances immersion and interaction within the game.
 
-![转存失败，建议直接上传图片文件](<转存失败，建议直接上传图片文件 >)
+ <img src="screenshots/screenshot6.png" style="height: 500px;"/>
 
 The sound effects of the fish biting the hook, game progression, and game success or failure.
 
  
 
-![转存失败，建议直接上传图片文件](<转存失败，建议直接上传图片文件 >)
+ <img src="screenshots/screenshot7.png" style="height: 300px;"/>
 
  
 
@@ -111,15 +113,9 @@ The sound effects of the fish biting the hook, game progression, and game succes
 
 To accommodate a wider range of users, we have provided additional gameplay options for general users (such as using buttons to move the bait and trigger fishing) and viewing buttons during the current game process. However, these features are only alternative options and not essential core functions required for running the game, so they do not affect our main target audience of visually impaired and speech-disabled users playing the game.
 
-![转存失败，建议直接上传图片文件](<转存失败，建议直接上传图片文件 >)
 
- 
+ <img src="screenshots/screenshot10.png" style="height: 500px;"/>
 
-![转存失败，建议直接上传图片文件](<转存失败，建议直接上传图片文件 >)
-
- 
-
-![转存失败，建议直接上传图片文件](<转存失败，建议直接上传图片文件 >)
 
 
 **PART 2: REQUIREMENTS**
